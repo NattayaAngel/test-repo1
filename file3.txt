@@ -2,4 +2,4 @@ Start new work on file 3
 
 Started component 1
 
-Started componebt 2
+Started component 2
